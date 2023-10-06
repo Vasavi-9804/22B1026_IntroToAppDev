@@ -14,7 +14,7 @@
   </li>
 </ul>
 
-<em> Note: The data in these screens will be dummy data
+
 A new Flutter project.
 
 ## Getting Started
